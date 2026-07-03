@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="images/bg.png" alt="Kagayatsuki" width="280" />
+  <img src="images/bg.jpg" alt="Kagayatsuki" width="280" />
 </div>
 
 <br>
